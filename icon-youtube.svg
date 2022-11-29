@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_17" data-name="Retângulo 17" width="15" height="15" fill="#aaaebb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-youtube" clip-path="url(#clip-path)">
+    <path id="Caminho_22" data-name="Caminho 22" d="M8.721,7.429,6.744,6.354c-.081-.047-.358.012-.358.105v2.1c0,.092.275.151.356.107L8.807,7.642c.084-.046,0-.166-.086-.213" fill="#aaaebb"/>
+    <path id="Caminho_23" data-name="Caminho 23" d="M7.5,0A7.5,7.5,0,1,0,15,7.5,7.5,7.5,0,0,0,7.5,0m4.015,8.553a1.8,1.8,0,0,1-1.8,1.8h-4.6a1.8,1.8,0,0,1-1.8-1.8V6.41a1.8,1.8,0,0,1,1.8-1.8h4.6a1.8,1.8,0,0,1,1.8,1.8Z" fill="#aaaebb"/>
+  </g>
+</svg>
